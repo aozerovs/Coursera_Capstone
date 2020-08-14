@@ -1,2 +1,2 @@
-# Coursera_Capstone
+# Coursera Capstone
 First Module Assignment
